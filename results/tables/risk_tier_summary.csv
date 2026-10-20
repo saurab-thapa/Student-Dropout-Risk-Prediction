@@ -1,0 +1,4 @@
+tier,students,real_dropout_rate,suggested_action
+Low,578,0.07439446366782007,Routine check-in and normal academic resources
+Medium,86,0.4883720930232558,Advisor meeting and targeted academic/financial support
+High,221,0.9004524886877828,"Prompt advisor outreach, financial review, and intensive support plan"

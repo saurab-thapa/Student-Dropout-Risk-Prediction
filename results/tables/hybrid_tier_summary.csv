@@ -1,0 +1,7 @@
+scorer,tier,students,dropout_rate
+ML only,Low,578,0.07439446366782007
+ML only,Medium,86,0.4883720930232558
+ML only,High,221,0.9004524886877828
+Hybrid,Low,578,0.0726643598615917
+Hybrid,Medium,88,0.5
+Hybrid,High,219,0.9041095890410958

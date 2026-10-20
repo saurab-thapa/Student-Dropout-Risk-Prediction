@@ -1,0 +1,4 @@
+index,before_probability,steps,after_probability,reached_below_high,reached_below_medium,probability_reduction
+2266,0.9836763631127681,Approve one more second-semester unit: 98% to 92% | Approve one more first-semester unit: 92% to 86%,0.86,False,False,0.12367636311276808
+3861,0.9809566903684551,Approve one more first-semester unit: 98% to 94% | Approve one more second-semester unit: 94% to 93%,0.93,False,False,0.05095669036845507
+971,0.9185997493072964,Approve one more second-semester unit: 92% to 84% | Approve one more first-semester unit: 84% to 78%,0.78,False,False,0.13859974930729635

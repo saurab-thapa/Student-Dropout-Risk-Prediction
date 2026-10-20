@@ -1,0 +1,4 @@
+method,brier_score
+Isotonic,0.08418505523270904
+Platt sigmoid,0.08554135076042826
+Uncalibrated,0.09323616195491326
